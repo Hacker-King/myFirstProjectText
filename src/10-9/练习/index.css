@@ -1,0 +1,61 @@
+.warp {
+    width: 1000px;
+    margin: auto;
+}
+
+.header {
+    background: rgb(10, 2, 131);
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.main {
+    min-height: 400px;
+    line-height: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.footer {
+    background: blue;
+    min-height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+}
+/* 按钮样式 */
+.btn{
+    width: 100px;
+    height: 30px;
+    background: #169BD5;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    color: white;
+}
+.left{
+    width: 200px;
+    background: #009999;
+}
+.center{
+    width: 550px;
+    background: #009999;
+
+}
+.right{
+    width: 200px;
+    background: #009999;
+
+}

@@ -1,0 +1,22 @@
+.input{
+    width: 576px;
+    height: 40px;
+   margin: 10px;
+   font-size: 26px;
+   background: #9BBB59;
+   border: 0;
+}
+.input::-webkit-input-placeholder{
+        font-size: 16px;
+        text-align: center;
+        color: white;
+}
+.btn{
+    position: relative;
+    left: 506px;
+    width: 80px;
+    height: 30px;
+    background: #C0504D;
+    border: red;
+    margin: 10px 0;
+}

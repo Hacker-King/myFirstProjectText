@@ -1,0 +1,53 @@
+.list{
+    width: 530px;
+    background: #8064A2;
+    height: 300px;
+    margin: auto;
+    color: white;
+}
+.search{
+    position: relative;
+    left: 26px;
+    background: #C0504D;
+    border: 0;
+    outline: none;
+  
+}
+.search::-webkit-input-placeholder{
+        color: white;
+        text-align: center;
+}
+.search_btn{
+    position: relative;
+    outline: none;
+    border: 0;
+    height: 19px;
+}
+.btn_clear{
+    width: 150px;
+    position: relative;
+    left: 30px;
+    background: #C0504D;
+    color: white;
+    border: 0;
+    outline: none;
+}
+.delete_btn{
+    background: #C0504D;
+    border: 0;
+    color: white;
+    position: absolute;
+    left: 710px;
+    
+}
+.list_li{
+    border: 2px#4A4E79 solid;
+    margin-top: 12px;
+    background: #4F81BD;
+   list-style: none;
+   width: 500px;
+}
+.li{
+    background: #4F81BD;
+    list-style: none;
+}

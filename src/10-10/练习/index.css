@@ -1,0 +1,414 @@
+/* 头部样式 */
+.header {
+    border: 2px dashed #000;
+    width: 998px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.headerbtn {
+    height: 30px;
+    background: #FBBF30;
+    padding: 0 40px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    outline: none;
+    border: 0;
+}
+
+/* 头部样式结束 */
+/* hulkapi内容样式 */
+.hulkapi {
+    border: 2px dashed #000;
+    width: 998px;
+    height: 30px;
+    margin: 15px auto;
+
+}
+
+.hulapip {
+    width: 980px;
+    height: 28px;
+    background: #D25B5D;
+    margin: 1px auto;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+/* 结束 */
+/* 主题内容样式 */
+.content {
+    width: 998px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* 主题左边样式 */
+.contentleft {
+    border: 2px dashed #000;
+    width: 489px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+/* 主题右边样式 */
+.contentright {
+    border: 2px dashed #000;
+    width: 489px;
+    height: 150px;
+}
+/* 中间主题左边布局样式 */
+.leftbtn {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 30px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.leftbtn1 {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 23px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.leftbtn2 {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 23px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    /* margin: 10px 0 0 15px; */
+    position: relative;
+    top: 10px;
+    left: 13px;
+}
+
+.leftbtn3 {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 23px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    /* margin: 10px 0 0 15px; */
+    position: relative;
+    top: 0px;
+    left: 24px;
+}
+/* 中间主题右边布局样式 */
+
+.rightbtn {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #2498F7;
+    padding: 0 38px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.rightbtn1 {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #2498F7;
+    padding: 0 29px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.rightdiv {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 9px;
+}
+
+.rightbtnf {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #2498F7;
+    padding: 0 143px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.rightbtnd {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #2498F7;
+    padding: 0 100px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.rightbtnc {
+    height: 30px;
+    outline: none;
+    border: 0;
+    background: #2498F7;
+    padding: 0 145px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+/* 监控部分 */
+.mon {
+    width: 1000px;
+    margin: auto;
+    display: flex;
+}
+/* 监控字体样式 */
+.monleft {
+    width: 86px;
+    height: 300px;
+    border: 2px dashed #000;
+}
+
+.monlfetp {
+    width: 270px;
+    background: #EB7E3D;
+    margin: 17px;
+    height: 65px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    position: relative;
+    left: -109px;
+    top: 100px;
+    transform: rotate(90deg);
+
+}
+
+.kube {
+    width: 400px;
+    border: 2px dashed #000;
+    height: 300px;
+    margin-left: 20px;
+}
+
+.kubeheader {
+    margin: 15px 25px;
+    padding: 30px 50px;
+    font-size: 26px;
+    text-align: center;
+    background: #4676C0;
+    color: white;
+}
+
+.kubefoot {
+    display: flex;
+}
+
+.kubeleft {
+    margin-left: 25px;
+    width: 130px;
+    padding: 15px;
+    height: 100px;
+    font-size: 26px;
+    text-align: center;
+    background: #4676C0;
+    color: white;
+}
+
+.kuberight {
+    margin-left: 29px;
+    font-size: 26px;
+    height: 100px;
+    width: 130px;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    background: #4676C0;
+}
+/* 镜像仓库 */
+.top {
+    border: 2px dashed #000;
+    height: 130px;
+}
+
+.topx {
+    border: 2px dashed #000;
+    height: 130px;
+    margin-top: 34px;
+}
+
+.etcd {
+    display: flex;
+    width: 130px;
+    flex-wrap: wrap;
+    margin-left: 25px;
+
+}
+
+.tops {
+    background: #EB7E3D;
+    margin: 30px;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 70px;
+    color: white;
+}
+
+.monright {
+    border: 2px dashed #000;
+    margin-left: 25px;
+    width: 300px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.monbtn {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 40px;
+    font-size: 26px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.monbtn1 {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 90px;
+    font-size: 26px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.monbtn2 {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 70px;
+    font-size: 26px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+/* 底部样式 */
+.footer {
+
+    margin: 15px auto;
+    width: 1000px;
+
+}
+
+.foottop {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footerbuttom {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footerspan {
+    width: 50px;
+    height: 10px;
+    background: #727273;
+
+}
+
+.footerspan1 {
+    width: 50px;
+    height: 10px;
+    background: white;
+}
+
+.footerbtn {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #2498F7;
+    padding: 0 29px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.footerbtn1 {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #378723;
+    padding: 0 50px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.footerbtn2 {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #D6595D;
+    padding: 0 50px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}
+
+.footbuttom {
+    height: 40px;
+    outline: none;
+    border: 0;
+    background: #898E91;
+    padding: 0 220px;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    margin: 10px 0 0 15px;
+}

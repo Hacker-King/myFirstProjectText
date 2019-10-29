@@ -1,0 +1,23 @@
+.boby {
+  width: 200px;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  color: #fff;
+  background: #0f4679;
+  > ul > li  ul {
+    padding-left: 0;
+  }
+
+}
+.hide {
+  > ul {
+    display: none;
+  }
+ 
+}
+.show {
+  > ul {
+    display: block;
+  }
+}
