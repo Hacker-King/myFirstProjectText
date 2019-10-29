@@ -1,0 +1,16 @@
+.title {
+  height: 59px;
+  border: 2px dashed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-h1 {
+  margin: 0;
+  background: red;
+  width: 98%;
+  text-align: center;
+  height: 43px;
+  color: white;
+}

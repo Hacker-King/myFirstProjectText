@@ -1,0 +1,128 @@
+.content2 {
+  height: 400px;
+  margin-top: 20px;
+}
+
+.content2-main {
+  display: flex;
+  justify-content: space-between;
+  height: 290px;
+  padding: 20px 0;
+}
+
+.content2-main-part1 {
+  width: 280px;
+  height: 65px;
+  border: 2px dashed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(90deg);
+  margin-top: 110px;
+  margin-left: -108px;
+  position: absolute;
+}
+
+.content2-main-part1 p {
+  width: 252px;
+  height: 43px;
+  background: orange;
+  font-size: 20px;
+  text-align: center;
+  line-height: 43px;
+  color: white;
+}
+
+.content2-main-part2 {
+  justify-content: space-around;
+  height: 284px;
+  width: 320px;
+  border: 2px dashed;
+  display: flex;
+  flex-direction: column;
+  margin-left: 111px;
+}
+
+.content2-main-part2-top {
+  font-size: 24px;
+  width: 240px;
+  height: 100px;
+  margin: 0 auto;
+  background: purple;
+  text-align: center;
+  line-height: 45px;
+  color: white;
+}
+
+.content2-main-part2-bottom {
+  display: flex;
+  justify-content: space-around;
+  width: 259px;
+  margin: 0 auto;
+}
+.content2-main-part2-bottom-item {
+  width: 110px;
+  height: 110px;
+  background: purple;
+}
+
+.content2-main-part2-bottom-item {
+  text-align: center;
+  color: white;
+}
+
+.content2-main-part3 {
+  width: 190px;
+  height: 286px;
+  border: 2px dashed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.content2-main-part3-item {
+  width: 160px;
+  height: 120px;
+  background: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: white;
+}
+
+.content2-main-part4 {
+  width: 290px;
+  border: 2px dashed;
+}
+
+.content2-main-part4 ul {
+  list-style: none;
+  height: 260px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.content2-main-part4 ul li {
+  text-align: center;
+  width: 210px;
+  height: 46px;
+  background: green;
+  line-height: 46px;
+  color: white;
+  font-size: 22px;
+}
+
+.content2-main-part4-ul-li {
+  display: flex;
+  justify-content: space-between;
+  background: white !important;
+}
+
+.content2-main-part4-ul-li span {
+  width: 90px;
+  background: green;
+}

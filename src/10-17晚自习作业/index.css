@@ -1,0 +1,53 @@
+.body {
+  width: 500px;
+  height: 400px;
+  background: #4f81bd;
+  margin: 50px auto;
+}
+.seach {
+  margin: 15px 0 0 40px;
+  width: 420px;
+  height: 30px;
+  outline: none;
+  border: #000;
+  background: #000;
+  color: white;
+  font-size: 18px;
+
+}
+.seach::-webkit-input-placeholder {
+  color: white;
+  text-align: center;
+  line-height: 40px;
+  background: #000;
+  height: 40px;
+  font-size: 18px;
+}
+.ul {
+  background: #953735;
+  margin: 30px auto;
+  width: 420px;
+  height: 300px;
+  overflow: auto;
+  padding-left: 20px;
+}
+.list {
+  list-style: none;
+  width: 380px;
+  margin-top: 15px;
+  background: #4f81bd;
+  color: white;
+  height: 25px;
+  border: 2px #583c4c solid;
+}
+.list:visited {
+  border: 2px #ccc solid;
+}
+.btn {
+  margin: 1px 10px 0 0;
+  background: #ff0000;
+  float: right;
+
+  color: white;
+  border: 2px #583c4c solid;
+}

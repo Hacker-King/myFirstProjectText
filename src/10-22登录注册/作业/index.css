@@ -1,0 +1,12 @@
+.form > label {
+    display: block;
+    margin-bottom: 20px;
+  }
+.boby{
+  width: 300px;
+  margin: 50px auto;
+}
+.ant-btn{
+    margin-bottom: 20px;
+    margin-right: 70px;
+}

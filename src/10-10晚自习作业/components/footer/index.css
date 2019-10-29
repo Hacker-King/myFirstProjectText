@@ -1,0 +1,47 @@
+.footer {
+  border-top: 20px dashed;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  padding-top: 20px;
+}
+
+.footer-left {
+  width: 480px;
+}
+
+.footer-left-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-left-top-item {
+  margin: 0;
+  padding: 7px 48px;
+  font-size: 18px;
+  color: white;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.red {
+  background: red;
+}
+
+.footer-left-bottom {
+  height: 50px;
+  width: 480px;
+  background: linear-gradient(#999, #000);
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 19px;
+  margin-top: 7px;
+}
