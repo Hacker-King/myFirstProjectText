@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
-import { login } from './vif.js';
-import { login as reqLogin } from './api';
+import React, { Component } from "react";
+import { login } from "./vif.js";
+import { login as reqLogin } from "./api";
 export default class index extends Component {
   constructor() {
     super();
     this.state = {
-      username: '',
-      password: ''
+      username: "",
+      password: ""
     };
   }
   handleChange = ({ target }) => {
@@ -20,13 +20,13 @@ export default class index extends Component {
     if (state) {
       return alert(state);
     } else {
-      reqLogin(this.state).then(res=>{
-          if (res.status===200&&res.data.code) {
-            return alert('登陆成功！');
-          }else{
-              return alert(res.data.msg)
-          }
-      })
+      reqLogin(this.state).then(res => {
+        if (res.status === 200 && res.data.code) {
+          return alert("登陆成功！");
+        } else {
+          return alert(res.data.msg);
+        }
+      });
     }
   };
   render() {

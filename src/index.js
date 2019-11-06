@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './10-28/晚自习作业'
+import Home from './11.1学生信息'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Home />, document.getElementById('root'));

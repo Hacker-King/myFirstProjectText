@@ -1,0 +1,2879 @@
+{
+  "fraction": [
+    {
+      "id": "17001242",
+      "name": "聂一晗",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "170012421008",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-09",
+          "id": "170012421009",
+          "edit": false
+        },
+        {
+          "fraction": "0",
+          "date": "10-10",
+          "id": "170012421010",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-11",
+          "id": "170012421011",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-14",
+          "id": "170012421014",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-15",
+          "id": "170012421015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "170012421016",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-17",
+          "id": "170012421017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "170012421018",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-21",
+          "id": "170012421021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "170012421022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "170012421023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "170012421024",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-25",
+          "id": "170012421025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "170012421028",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-29",
+          "id": "170012421029",
+          "edit": false
+        },
+        {
+          "fraction": "65",
+          "date": "10-30",
+          "id": "170012421030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "170012421031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "170012421101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000986",
+      "name": "冯韦绍",
+      "dateArr": [
+        {
+          "fraction": "70",
+          "date": "10-08",
+          "id": "180009861008",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-09",
+          "id": "180009861009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180009861010",
+          "edit": false
+        },
+        {
+          "fraction": "65",
+          "date": "10-11",
+          "id": "180009861011",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-14",
+          "id": "180009861014",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-15",
+          "id": "180009861015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180009861016",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-17",
+          "id": "180009861017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180009861018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180009861021",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-22",
+          "id": "180009861022",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-23",
+          "id": "180009861023",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-24",
+          "id": "180009861024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180009861025",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-28",
+          "id": "180009861028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180009861029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180009861030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180009861031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180009861101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000925",
+      "name": "岳松兵",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180009251008",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-09",
+          "id": "180009251009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180009251010",
+          "edit": false
+        },
+        {
+          "fraction": "65",
+          "date": "10-11",
+          "id": "180009251011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180009251014",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-15",
+          "id": "180009251015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180009251016",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-17",
+          "id": "180009251017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180009251018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180009251021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180009251022",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-23",
+          "id": "180009251023",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-24",
+          "id": "180009251024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180009251025",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-28",
+          "id": "180009251028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180009251029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180009251030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180009251031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180009251101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001030",
+      "name": "普慧慧",
+      "dateArr": [
+        {
+          "fraction": "70",
+          "date": "10-08",
+          "id": "180010301008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180010301009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180010301010",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-11",
+          "id": "180010301011",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-14",
+          "id": "180010301014",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-15",
+          "id": "180010301015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "180010301016",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-17",
+          "id": "180010301017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180010301018",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-21",
+          "id": "180010301021",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-22",
+          "id": "180010301022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180010301023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "180010301024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180010301025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180010301028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180010301029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180010301030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180010301031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180010301101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000245",
+      "name": "范康文",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180002451008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180002451009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180002451010",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-11",
+          "id": "180002451011",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-14",
+          "id": "180002451014",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-15",
+          "id": "180002451015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180002451016",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-17",
+          "id": "180002451017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180002451018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180002451021",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-22",
+          "id": "180002451022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180002451023",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-24",
+          "id": "180002451024",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-25",
+          "id": "180002451025",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-28",
+          "id": "180002451028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180002451029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180002451030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180002451031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180002451101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000082",
+      "name": "刘洋",
+      "dateArr": [
+        {
+          "fraction": "80",
+          "date": "10-08",
+          "id": "180000821008",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-09",
+          "id": "180000821009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180000821010",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-11",
+          "id": "180000821011",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-14",
+          "id": "180000821014",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-15",
+          "id": "180000821015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "180000821016",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-17",
+          "id": "180000821017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180000821018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180000821021",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-22",
+          "id": "180000821022",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-23",
+          "id": "180000821023",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-24",
+          "id": "180000821024",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-25",
+          "id": "180000821025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180000821028",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-29",
+          "id": "180000821029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180000821030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180000821031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180000821101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000491",
+      "name": "路斗",
+      "dateArr": [
+        {
+          "fraction": "70",
+          "date": "10-08",
+          "id": "180004911008",
+          "edit": false
+        },
+        {
+          "fraction": "75",
+          "date": "10-09",
+          "id": "180004911009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180004911010",
+          "edit": false
+        },
+        {
+          "fraction": "65",
+          "date": "10-11",
+          "id": "180004911011",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-14",
+          "id": "180004911014",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-15",
+          "id": "180004911015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "180004911016",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-17",
+          "id": "180004911017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180004911018",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-21",
+          "id": "180004911021",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-22",
+          "id": "180004911022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180004911023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "180004911024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180004911025",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-28",
+          "id": "180004911028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180004911029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180004911030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180004911031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180004911101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000310",
+      "name": "段泊伊",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180003101008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180003101009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180003101010",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-11",
+          "id": "180003101011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180003101014",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-15",
+          "id": "180003101015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180003101016",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-17",
+          "id": "180003101017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180003101018",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-21",
+          "id": "180003101021",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-22",
+          "id": "180003101022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180003101023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "180003101024",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-25",
+          "id": "180003101025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180003101028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180003101029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180003101030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180003101031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180003101101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000531",
+      "name": "庞宇飞",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180005311008",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-09",
+          "id": "180005311009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180005311010",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-11",
+          "id": "180005311011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180005311014",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-15",
+          "id": "180005311015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180005311016",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-17",
+          "id": "180005311017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180005311018",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-21",
+          "id": "180005311021",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-22",
+          "id": "180005311022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180005311023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "180005311024",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180005311028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180005311029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180005311030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180005311031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180005311101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000380",
+      "name": "张邦强",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180003801008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180003801009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180003801010",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-11",
+          "id": "180003801011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180003801014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180003801015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180003801016",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-17",
+          "id": "180003801017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180003801018",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-21",
+          "id": "180003801021",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-22",
+          "id": "180003801022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180003801023",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-24",
+          "id": "180003801024",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-25",
+          "id": "180003801025",
+          "edit": false
+        },
+        {
+          "fraction": "92",
+          "date": "10-28",
+          "id": "180003801028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180003801029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180003801030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180003801031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180003801101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000588",
+      "name": "谢尚佑",
+      "dateArr": [
+        {
+          "fraction": "80",
+          "date": "10-08",
+          "id": "180005881008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180005881009",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-10",
+          "id": "180005881010",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-11",
+          "id": "180005881011",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-14",
+          "id": "180005881014",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-15",
+          "id": "180005881015",
+          "edit": false
+        },
+        {
+          "fraction": "98",
+          "date": "10-16",
+          "id": "180005881016",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-17",
+          "id": "180005881017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180005881018",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-21",
+          "id": "180005881021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180005881022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180005881023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "180005881024",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-25",
+          "id": "180005881025",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-28",
+          "id": "180005881028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180005881029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180005881030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180005881031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180005881101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001323",
+      "name": "梁咏琪",
+      "dateArr": [
+        {
+          "fraction": "70",
+          "date": "10-08",
+          "id": "180013231008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180013231009",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-10",
+          "id": "180013231010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180013231011",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-14",
+          "id": "180013231014",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-15",
+          "id": "180013231015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "180013231016",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-17",
+          "id": "180013231017",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-18",
+          "id": "180013231018",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-21",
+          "id": "180013231021",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-22",
+          "id": "180013231022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180013231023",
+          "edit": false
+        },
+        {
+          "fraction": "120",
+          "date": "10-24",
+          "id": "180013231024",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-25",
+          "id": "180013231025",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-28",
+          "id": "180013231028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180013231029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180013231030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180013231031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180013231101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001297",
+      "name": "陈旭",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180012971008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180012971009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180012971010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180012971011",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-14",
+          "id": "180012971014",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-15",
+          "id": "180012971015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "180012971016",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-17",
+          "id": "180012971017",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-18",
+          "id": "180012971018",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-21",
+          "id": "180012971021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180012971022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180012971023",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-24",
+          "id": "180012971024",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-25",
+          "id": "180012971025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180012971028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180012971029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180012971030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180012971031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180012971101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001221",
+      "name": "王子豪",
+      "dateArr": [
+        {
+          "fraction": "90",
+          "date": "10-08",
+          "id": "180012211008",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-09",
+          "id": "180012211009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180012211010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180012211011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180012211014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180012211015",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-16",
+          "id": "180012211016",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-17",
+          "id": "180012211017",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-18",
+          "id": "180012211018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180012211021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180012211022",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-23",
+          "id": "180012211023",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-24",
+          "id": "180012211024",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-25",
+          "id": "180012211025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180012211028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180012211029",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-30",
+          "id": "180012211030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180012211031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180012211101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001231",
+      "name": "葛思豪",
+      "dateArr": [
+        {
+          "fraction": "70",
+          "date": "10-08",
+          "id": "180012311008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180012311009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180012311010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180012311011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180012311014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180012311015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "180012311016",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-17",
+          "id": "180012311017",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-18",
+          "id": "180012311018",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-21",
+          "id": "180012311021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180012311022",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-23",
+          "id": "180012311023",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-24",
+          "id": "180012311024",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-25",
+          "id": "180012311025",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-28",
+          "id": "180012311028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180012311029",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-30",
+          "id": "180012311030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180012311031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180012311101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "16000773",
+      "name": "贾俊科",
+      "dateArr": [
+        {
+          "fraction": "75",
+          "date": "10-08",
+          "id": "160007731008",
+          "edit": false
+        },
+        {
+          "fraction": "75",
+          "date": "10-09",
+          "id": "160007731009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "160007731010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "160007731011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "160007731014",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-15",
+          "id": "160007731015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "160007731016",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-17",
+          "id": "160007731017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "160007731018",
+          "edit": false
+        },
+        {
+          "fraction": "65",
+          "date": "10-21",
+          "id": "160007731021",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-22",
+          "id": "160007731022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "160007731023",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-24",
+          "id": "160007731024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "160007731025",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-28",
+          "id": "160007731028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "160007731029",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-30",
+          "id": "160007731030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "160007731031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "160007731101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000139",
+      "name": "崔皓然",
+      "dateArr": [
+        {
+          "fraction": "90",
+          "date": "10-08",
+          "id": "180001391008",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-09",
+          "id": "180001391009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180001391010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180001391011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180001391014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180001391015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "180001391016",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-17",
+          "id": "180001391017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180001391018",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-21",
+          "id": "180001391021",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-22",
+          "id": "180001391022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180001391023",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-24",
+          "id": "180001391024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180001391025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180001391028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180001391029",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-30",
+          "id": "180001391030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180001391031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180001391101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001096",
+      "name": "吴楠",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180010961008",
+          "edit": false
+        },
+        {
+          "fraction": "75",
+          "date": "10-09",
+          "id": "180010961009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180010961010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180010961011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180010961014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180010961015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "180010961016",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-17",
+          "id": "180010961017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180010961018",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-21",
+          "id": "180010961021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180010961022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180010961023",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-24",
+          "id": "180010961024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180010961025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180010961028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180010961029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180010961030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180010961031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180010961101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001025",
+      "name": "宿赞港",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180010251008",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-09",
+          "id": "180010251009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180010251010",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-11",
+          "id": "180010251011",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-14",
+          "id": "180010251014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180010251015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "180010251016",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-17",
+          "id": "180010251017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180010251018",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-21",
+          "id": "180010251021",
+          "edit": false
+        },
+        {
+          "fraction": "55",
+          "date": "10-22",
+          "id": "180010251022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180010251023",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-24",
+          "id": "180010251024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180010251025",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-28",
+          "id": "180010251028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180010251029",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-30",
+          "id": "180010251030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180010251031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180010251101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001066",
+      "name": "范庆荣",
+      "dateArr": [
+        {
+          "fraction": "75",
+          "date": "10-08",
+          "id": "180010661008",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-09",
+          "id": "180010661009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180010661010",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-11",
+          "id": "180010661011",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-14",
+          "id": "180010661014",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-15",
+          "id": "180010661015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "180010661016",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-17",
+          "id": "180010661017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180010661018",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-21",
+          "id": "180010661021",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-22",
+          "id": "180010661022",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-23",
+          "id": "180010661023",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-24",
+          "id": "180010661024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180010661025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180010661028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180010661029",
+          "edit": false
+        },
+        {
+          "fraction": "110",
+          "date": "10-30",
+          "id": "180010661030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180010661031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180010661101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001195",
+      "name": "李强",
+      "dateArr": [
+        {
+          "fraction": "75",
+          "date": "10-08",
+          "id": "180011951008",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-09",
+          "id": "180011951009",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-10",
+          "id": "180011951010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180011951011",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-14",
+          "id": "180011951014",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-15",
+          "id": "180011951015",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-16",
+          "id": "180011951016",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-17",
+          "id": "180011951017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180011951018",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-21",
+          "id": "180011951021",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-22",
+          "id": "180011951022",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-23",
+          "id": "180011951023",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-24",
+          "id": "180011951024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180011951025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180011951028",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-29",
+          "id": "180011951029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180011951030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180011951031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180011951101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18001175",
+      "name": "赵瑞波",
+      "dateArr": [
+        {
+          "fraction": "75",
+          "date": "10-08",
+          "id": "180011751008",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-09",
+          "id": "180011751009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180011751010",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-11",
+          "id": "180011751011",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-14",
+          "id": "180011751014",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-15",
+          "id": "180011751015",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-16",
+          "id": "180011751016",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-17",
+          "id": "180011751017",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-18",
+          "id": "180011751018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180011751021",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-22",
+          "id": "180011751022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180011751023",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-24",
+          "id": "180011751024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180011751025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180011751028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180011751029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180011751030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180011751031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180011751101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000647",
+      "name": "舒浩奇",
+      "dateArr": [
+        {
+          "fraction": "80",
+          "date": "10-08",
+          "id": "180006471008",
+          "edit": false
+        },
+        {
+          "fraction": "80",
+          "date": "10-09",
+          "id": "180006471009",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-10",
+          "id": "180006471010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180006471011",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-14",
+          "id": "180006471014",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-15",
+          "id": "180006471015",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-16",
+          "id": "180006471016",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-17",
+          "id": "180006471017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180006471018",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-21",
+          "id": "180006471021",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-22",
+          "id": "180006471022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180006471023",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-24",
+          "id": "180006471024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180006471025",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-28",
+          "id": "180006471028",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-29",
+          "id": "180006471029",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-30",
+          "id": "180006471030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180006471031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180006471101",
+          "edit": false
+        }
+      ]
+    },
+    {
+      "id": "18000948",
+      "name": "刘奕椤",
+      "dateArr": [
+        {
+          "fraction": "60",
+          "date": "10-08",
+          "id": "180009481008",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-09",
+          "id": "180009481009",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-10",
+          "id": "180009481010",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-11",
+          "id": "180009481011",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-14",
+          "id": "180009481014",
+          "edit": false
+        },
+        {
+          "fraction": "85",
+          "date": "10-15",
+          "id": "180009481015",
+          "edit": false
+        },
+        {
+          "fraction": "30",
+          "date": "10-16",
+          "id": "180009481016",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-17",
+          "id": "180009481017",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-18",
+          "id": "180009481018",
+          "edit": false
+        },
+        {
+          "fraction": "95",
+          "date": "10-21",
+          "id": "180009481021",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-22",
+          "id": "180009481022",
+          "edit": false
+        },
+        {
+          "fraction": "90",
+          "date": "10-23",
+          "id": "180009481023",
+          "edit": false
+        },
+        {
+          "fraction": "75",
+          "date": "10-24",
+          "id": "180009481024",
+          "edit": false
+        },
+        {
+          "fraction": "100",
+          "date": "10-25",
+          "id": "180009481025",
+          "edit": false
+        },
+        {
+          "fraction": "50",
+          "date": "10-28",
+          "id": "180009481028",
+          "edit": false
+        },
+        {
+          "fraction": "70",
+          "date": "10-29",
+          "id": "180009481029",
+          "edit": false
+        },
+        {
+          "fraction": "30",
+          "date": "10-30",
+          "id": "180009481030",
+          "edit": false
+        },
+        {
+          "fraction": "60",
+          "date": "10-31",
+          "id": "180009481031",
+          "edit": false
+        },
+        {
+          "fraction": "",
+          "date": "11-01",
+          "id": "180009481101",
+          "edit": false
+        }
+      ]
+    }
+  ],
+  "title": "1810名单"
+}
